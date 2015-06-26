@@ -9,9 +9,15 @@
 //
 // Read Sprockets README (https://github.com/sstephenson/sprockets#sprockets-directives) for details
 // about supported directives.
-//
-//= require jquery
+//= require jquery.js
 //= require jquery_ujs
 //= require turbolinks
-//= require bootstrap 
-//= require common
+//= require bootstrap.js
+//= require common.js
+//= require bootstrap.min.js
+//= require cbpAnimatedHeader.js
+//= require classie.js
+//= require wow.min.js
+//= require creative.js
+//= require jquery.fittext.js
+//= require jquery.easing.min.js

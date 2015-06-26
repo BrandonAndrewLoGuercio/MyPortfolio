@@ -2,6 +2,8 @@ class PagesController < ApplicationController
   before_action :authenticate_user!, only: [
     :inside
   ]
+  def contact
+    end
 
   def home
   end
