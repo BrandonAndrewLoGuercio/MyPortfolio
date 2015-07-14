@@ -1,6 +1,5 @@
 MyPortfolio::Application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
-  config.action_controller.asset_host = "<YOUR DISTRIBUTION SUBDOMAIN>.cloudfront.net"
 
   # Code is not reloaded between requests.
   config.cache_classes = true
