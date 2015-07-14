@@ -23,9 +23,6 @@ gem 'friendly_id', '5.1.0'
 # Font-awesome: https://github.com/FortAwesome/font-awesome-sass
 gem 'font-awesome-sass', '4.3.2.1'
 
-# RailsBricks: http://www.railsbricks.net
-gem 'railsbricks'
-
 # Bootstrap 3: https://github.com/twbs/bootstrap-sass
 gem 'bootstrap-sass', '3.3.5'
 

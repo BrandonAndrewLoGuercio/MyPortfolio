@@ -10,3 +10,11 @@ development:
   pool: 5
   port: 5432
   
+production:
+  adapter: postgresql
+  encoding: utf8
+  database: railsbrickssample_development
+  username: brandon
+  host: localhost
+  pool: 5
+  port: 5432
