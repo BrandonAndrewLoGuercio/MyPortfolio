@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Railsbrickssample::Application.load_tasks
+MyPortfolio::Application.load_tasks

@@ -22,4 +22,4 @@ def secure_token
   end
 end
 
-Railsbrickssample::Application.config.secret_key_base = secure_token
+MyPortfolio::Application.config.secret_key_base = secure_token
