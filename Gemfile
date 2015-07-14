@@ -49,3 +49,5 @@ gem 'devise', '3.5.1'
 
 # Redcarpet: https://github.com/vmg/redcarpet
 gem 'redcarpet', '3.3.1'
+
+gem 'rails_12factor', group: :production
