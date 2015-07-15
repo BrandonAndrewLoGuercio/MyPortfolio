@@ -1,7 +1,9 @@
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
-a {
+.navbar a {
   color: rgba(198, 198, 198, 0.79) !important;
+  color: yellow;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
   a:hover {
     color: darkorange !important;
