@@ -9,8 +9,7 @@ MyPortfolio::Application.routes.draw do
   get "posts/:id", to: "pages#show_post", as: "post"
   devise_for :users
 
-  resources :users
-  resources :posts
+  resources :users, :posts
 
   namespace :admin do
     root "base#index"
