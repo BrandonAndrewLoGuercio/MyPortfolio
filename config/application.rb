@@ -32,8 +32,7 @@ module MyPortfolio
     config.autoload_paths += %W(#{config.root}/lib)
     config.autoload_paths += Dir["#{config.root}/lib/**/"]
 
-    config.serve_static_assets = true
-
+    config.serve_static_files = true
 
   end
 end
